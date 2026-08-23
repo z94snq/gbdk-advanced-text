@@ -77,5 +77,5 @@ C:\gbdk\bin\png2asset.exe DialogueBox.png -map -keep_palette_order -noflip
 ## Resources
 - GBDK: https://github.com/gbdk-2020/gbdk-2020
 - png2asset docs: https://gbdk.org/docs/api/docs_toolchain_settings.html#png2asset-settings
-- Advanced Text Tutorial: https://github.com/LaroldsJubilantJunkyard/drawing-advanced-dialogue
-- Font graphics assets: https://github.com/LaroldsJubilantJunkyard/drawing-basic-text
+- Advanced Text Tutorial: https://laroldsretrogameyard.com/tutorials/gb/drawing-advanced-dialogue-boxes/
+- Font graphics assets: https://github.com/LaroldsJubilantJunkyard/drawing-advanced-dialogue
